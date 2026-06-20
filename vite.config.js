@@ -12,4 +12,7 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   base: "/Developer-Portfolio/",
   plugins: [react()],
+  build: {
+    outDir: "dist",
+  },
 });
