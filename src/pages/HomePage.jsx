@@ -59,7 +59,7 @@ export default function HomePage() {
                       </a>
                     </li>
 
-                    <li className="social-item">
+                    {/* <li className="social-item">
                       <a
                         href="https://instagram.com/"
                         target="_blank"
@@ -90,7 +90,7 @@ export default function HomePage() {
                       >
                         <img src={youtube} alt="" className="social-icon" />
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </nav>
               </article>

@@ -1,5 +1,6 @@
 import "./Footer.css";
 import "../index.css";
+import { Link } from "react-router-dom";
 
 export function Footer() {
   return (
@@ -9,7 +10,7 @@ export function Footer() {
       </section>
 
       <div className="footer-content">
-        <nav className="social-navigation" aria-label="Social media links">
+        {/* <nav className="social-navigation" aria-label="Social media links">
           <h3 className="footer-heading">Follow Me</h3>
 
           <ul className="footer-list">
@@ -57,34 +58,34 @@ export function Footer() {
               </a>
             </li>
           </ul>
-        </nav>
+        </nav> */}
 
         <nav className="footer-navigation" aria-label="Footer navigation">
           <h3 className="footer-heading">Navigation</h3>
 
           <ul className="footer-list">
             <li className="footer-list-item">
-              <a href="/" className="footer-link">
+              <Link to="/home" className="footer-link">
                 Home
-              </a>
+              </Link>
             </li>
 
             <li className="footer-list-item">
-              <a href="/about" className="footer-link">
+              <Link to="/about" className="footer-link">
                 About
-              </a>
+              </Link>
             </li>
 
             <li className="footer-list-item">
-              <a href="/projects" className="footer-link">
+              <Link to="/projects" className="footer-link">
                 Projects
-              </a>
+              </Link>
             </li>
 
             <li className="footer-list-item">
-              <a href="/contact" className="footer-link">
+              <Link to="/contact" className="footer-link">
                 Contact
-              </a>
+              </Link>
             </li>
           </ul>
         </nav>

@@ -62,7 +62,7 @@ export function ContactDiv({ className = "" }) {
                 <h3 className="contact-item-title">Email</h3>
 
                 <a href="mailto:hello@gmail.com" className="contact-link">
-                  thinyushweyee@gmail.com
+                  mileyaleynaedu226@gmail.com
                 </a>
               </li>
 

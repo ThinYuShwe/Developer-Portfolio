@@ -7,21 +7,15 @@ export function StatsDiv() {
 
         <ul className="stats-list">
           <li className="stats-item">
-            <h3 className="stats-number">50+</h3>
+            <h3 className="stats-number">55+</h3>
 
-            <p className="stats-label">Projects Designed & Delivered</p>
+            <p className="stats-label">Repositories Created</p>
           </li>
 
-          {/* <li className="stats-item">
-            <h3 className="stats-number">15+</h3>
-
-            <p className="stats-label">Tools & Platforms Worked With</p>
-          </li> */}
-
           <li className="stats-item">
-            <h3 className="stats-number">3+</h3>
+            <h3 className="stats-number">7+</h3>
 
-            <p className="stats-label">Years of Experience</p>
+            <p className="stats-label">Completed Projects</p>
           </li>
 
           {/* <li className="stats-item">

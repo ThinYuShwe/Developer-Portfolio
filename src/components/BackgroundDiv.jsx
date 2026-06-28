@@ -29,7 +29,7 @@ export function BackgroundDiv() {
                   <div className="background-meta">
                     <p className="background-role">Software Enginnering</p>
 
-                    <p className="background-date">2022 – 2025</p>
+                    {/* <p className="background-date">2022 – 2025</p> */}
                   </div>
                 </article>
               </li>
@@ -43,7 +43,7 @@ export function BackgroundDiv() {
                   <div className="background-meta">
                     <p className="background-role">Software Enginnering</p>
 
-                    <p className="background-date">2026</p>
+                    {/* <p className="background-date">2026</p> */}
                   </div>
                 </article>
               </li>
