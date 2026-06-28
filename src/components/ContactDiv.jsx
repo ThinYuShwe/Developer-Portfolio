@@ -69,8 +69,8 @@ export function ContactDiv({ className = "" }) {
               <li className="contact-item">
                 <h3 className="contact-item-title">Call Me</h3>
 
-                <a href="tel:+18084569890" className="contact-link">
-                  09 - 243241345
+                <a href="tel:+959254279280" className="contact-link">
+                  09-254279280
                 </a>
               </li>
             </ul>
