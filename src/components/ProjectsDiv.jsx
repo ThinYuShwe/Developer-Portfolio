@@ -113,7 +113,7 @@ export function ProjectsDiv({ className = "" }) {
 
             <li className="project-card project-card-6">
               <article className="project-card-article6">
-                <a href="/projects/project-6">
+                <a href="#" target="_blank" rel="noopener noreferrer">
                   <img
                     src={project6}
                     alt="Preview of Project Six"

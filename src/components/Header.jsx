@@ -31,7 +31,7 @@ export function Header() {
         <ul className="nav-list">
           <li className="nav-item">
             <NavLink to="/" className="nav-logo">
-              Thin Yu Shwe Yee
+              Portfolio
             </NavLink>
           </li>
 

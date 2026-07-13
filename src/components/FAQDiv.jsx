@@ -53,8 +53,8 @@ export function FAQDiv() {
           <h2 className="faq-title">FAQs</h2>
 
           <p className="faq-description">
-            No jargon, no fluff. Just clear answers to the most common questions
-            about the work and process.
+            Clear, straightforward answers to the most common questions about
+            the work and process.
           </p>
         </header>
 
